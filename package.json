@@ -1,6 +1,6 @@
 {
   "name": "agileplm",
-  "version": "0.2.0",
+  "version": "0.1.0",
   "description": "node module for using Oracle Agile PLM web services",
   "main": "index.js",
   "scripts": {
@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/ksachdeva/agilePLM/issues"
   },
-  "homepage": "https://github.com/ksachdeva/agilePLM#readme"
+  "homepage": "https://github.com/ksachdeva/agilePLM#readme",
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "lodash": "^3.10.1",
+    "soap": "^0.9.1"
+  }
 }
