@@ -1,6 +1,6 @@
 {
   "name": "agileplm",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "node module for using Oracle Agile PLM web services",
   "main": "index.js",
   "scripts": {
